@@ -1,2 +1,2 @@
-# ts-library-template
-⛩️ TypeScript Library Template
+<!----- BEGIN GHOST DOCS HEADER ----->
+<!----- END GHOST DOCS HEADER ----->
