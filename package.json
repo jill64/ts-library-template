@@ -9,7 +9,7 @@
   "homepage": "https://github.com/jill64/ts-library-template#readme",
   "files": [
     "dist",
-		"!**/*.test.*"
+    "!**/*.test.*"
   ],
   "exports": {
     ".": {
