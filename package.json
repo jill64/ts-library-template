@@ -1,6 +1,6 @@
 {
   "name": "ts-library-template",
-  "description": "package-description",
+  "description": "⛩️ TypeScript Library Template",
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
