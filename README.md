@@ -6,10 +6,4 @@
 
 ⛩️ TypeScript Library Template
 
-## Installation
-
-```sh
-npm i ts-library-template
-```
-
 <!----- END GHOST DOCS HEADER ----->
