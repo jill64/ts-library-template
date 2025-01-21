@@ -1,5 +1,8 @@
 {
-  "name": "",
+  "name": "xxxxxxxxxxxxxxxxxxx",
+  "version": "0.0.0",
+  "private": true,
+  "description": "⛩️ TypeScript Library Template",
   "type": "module",
   "main": "dist/index.js",
   "files": [
@@ -21,9 +24,25 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "2.0.1",
+    "@jill64/eslint-config-ts": "2.0.3",
     "@jill64/prettier-config": "1.0.0",
-    "typescript": "5.7.2",
-    "vitest": "2.1.8"
-  }
+    "typescript": "5.7.3",
+    "vitest": "3.0.2"
+  },
+  "homepage": "https://github.com/jill64/ts-library-template#readme",
+  "bugs": "https://github.com/jill64/ts-library-template/issues",
+  "author": {
+    "name": "jill64",
+    "email": "contact@jill64.dev",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jill64/ts-library-template.git",
+    "image": "https://opengraph.githubassets.com/e562c45c5d1154557340c177f02dbaac8d827608c9bffa713d14c1eb832ac583/jill64/ts-library-template"
+  },
+  "keywords": [
+    "template"
+  ]
 }
