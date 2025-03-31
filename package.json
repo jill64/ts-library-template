@@ -40,7 +40,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/ts-library-template.git",
-    "image": "https://opengraph.githubassets.com/c82d08498ff077d1c7a5bda2db8bf4b34ff0117ec06366667b8943d5b01d7f4f/jill64/ts-library-template"
+    "image": "https://opengraph.githubassets.com/d5b2f01a2c4206d60e8a6e1cc79809d4138e8f4bf49797b904dd8064e268c1fa/jill64/ts-library-template"
   },
   "keywords": [
     "template"
