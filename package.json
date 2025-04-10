@@ -24,7 +24,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "2.0.24",
+    "@jill64/eslint-config-ts": "2.0.25",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.8.3",
     "vitest": "3.1.1"
@@ -40,7 +40,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/ts-library-template.git",
-    "image": "https://opengraph.githubassets.com/0ce544e1851f501928341492bc0654bcd41409ac6244f9760a8ed4ccb5266b94/jill64/ts-library-template"
+    "image": "https://opengraph.githubassets.com/139a55313a43a95f16f77f6833b7ec3b83caac6ace80b89cbb2d62931347f1da/jill64/ts-library-template"
   },
   "keywords": [
     "template"
